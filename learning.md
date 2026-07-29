@@ -16,7 +16,7 @@ I'm learning Git and version control to track my work.
 - You can merge branches back together when ready
 
 ## GitHub Commnits
-- Able to push the code to github from my-branch
+- Able to push the code to github from my-branch in local
 
 
 
