@@ -18,5 +18,7 @@ I'm learning Git and version control to track my work.
 ## GitHub Commnits
 - Able to push the code to github from my-branch in local
 
+- ⚡ Fast performance
+- 🚀 🌟 🎯 
 
 
